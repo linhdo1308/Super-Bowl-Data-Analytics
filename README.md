@@ -6,26 +6,33 @@ This project analyzes Twitter data from Super Bowl LIX commercials in 2025 to un
 ## 2. Key Metrics:
 Below are the 3 most important metrics we use to evaluate the performance of commercials
 **- Cost per Engagement:**
+
 The effectiveness of advertisements was estimated by correlating brand engagement with estimated ad spending impact.
 
 **- Celebrity Mentioned Score:**
+
 The mentioned score is determined based on number of hashtags on tweets. 
 
 **- Stock Price Changes:**
+
 Brand mentions were analyzed in correlation with stock price fluctuations to assess the financial impact of advertisements. However, it is important to keep in mind that stock price can also be influenced by other factors.
 
 In addition, we also look at:
 
 **- Top 10 Tweeted brands & Top 10 Tweeted Hashtags:**
+
 The frequency of ad mentions and hashtags was calculated using pandas.
 
 **- Brand Sentiment Analysis:**
+
 Tweets were categorized into positive, neutral, or negative sentiment using NLTK and TextBlob.
 
 **- Tweet Activity Over Time & Quarter Analysis:**
+
 Tweet activity was analyzed across different game quarters using Tableau to identify engagement patterns.
 
 **- States of Tweets:**
+
 The geographic distribution of tweets across U.S. states was visualized in Tableau.
 
 ## 3. Key Insights and Recommendations:
