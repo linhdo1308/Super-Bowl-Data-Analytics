@@ -18,6 +18,7 @@ The mentioned score is determined based on number of hashtags on tweets.
 Brand mentions were analyzed in correlation with stock price fluctuations to assess the financial impact of advertisements. However, it is important to keep in mind that stock price can also be influenced by other factors.
 
 
+
 In addition, we also look at:
 
 **- Top 10 Tweeted brands & Top 10 Tweeted Hashtags**
